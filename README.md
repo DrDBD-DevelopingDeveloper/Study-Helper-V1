@@ -15,7 +15,7 @@ It includes:
    npm install
    npm start
    ```
-3. The app will be available at http://localhost:3000
+3. The app will be available at https://study-helper-v1-dbd.vercel.app/
 
 ### To deploy quickly
 - Recommended: Vercel or Netlify. See instructions in the companion note (below).
